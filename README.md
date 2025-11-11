@@ -18,6 +18,28 @@ WeatherPedia is a beautiful and fast weather application built with **React + Vi
 
 ---
 
+🧠 How It Works
+
+1. User enters a city name
+
+2. WeatherPedia calls OpenWeather API
+
+3. The app displays:
+
+City
+
+Temperature
+
+Min/Max temperature
+
+Humidity
+
+Weather description
+
+4. Icon + image changes based on weather conditions
+---
+
+
 ## 🛠️ Tech Stack
 - React  
 - Vite  
@@ -27,6 +49,8 @@ WeatherPedia is a beautiful and fast weather application built with **React + Vi
 
 ---
 
-## 🔑 Environment Variables
-Create a `.env` file in the project root:
+🙌 Contributing
+
+Pull requests are welcome.
+For major changes, please open an issue first.
 
