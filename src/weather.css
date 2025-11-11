@@ -1,0 +1,26 @@
+html,
+body,
+#root {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+} 
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #87CEEB;
+    /* light sky blue */
+    font-family: Arial, sans-serif;
+}
+
+.weather-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
